@@ -6,4 +6,11 @@ agregando cuarto cambio
 
 cambio para creación de nueva rama
 
+<<<<<<< HEAD
 --CAMBIO EN RAMA MASTER
+=======
+
+cabecera
+
+Segundo cambio en rama cabecera..
+>>>>>>> cabecera
